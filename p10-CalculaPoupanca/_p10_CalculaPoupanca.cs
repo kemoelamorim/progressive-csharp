@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10_CalculaPoupanca
+namespace _p10_CalculaPoupanca
 {
-    class _10_CalculaPoupanca
+    class _p10_CalculaPoupanca
     {
         static void Main(string[] args)
         {
